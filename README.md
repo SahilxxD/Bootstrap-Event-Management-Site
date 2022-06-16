@@ -2,6 +2,8 @@ This is one pager (responsive) website made in bootstrap
 
 it has carousel & scrollspy
 also added animations 
+
+
 screenshots:
 
 ![Screenshot (43)](https://user-images.githubusercontent.com/95856189/174079302-42807011-9aad-4d11-bdda-18bda09c25ea.png)
