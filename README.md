@@ -1,4 +1,4 @@
-This is one pager website made in bootstrap
+This is one pager (responsive) website made in bootstrap
 
 screenshots:
 
